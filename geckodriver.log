@@ -1,0 +1,864 @@
+1511517600724	geckodriver	INFO	geckodriver 0.19.1
+1511517600747	geckodriver	INFO	Listening on 127.0.0.1:54901
+1511517602947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.OFfqZxYfwBR7"
+1511517605992	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511517612135	Marionette	INFO	Listening on port 54912
+1511517612583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511517612806	Marionette	DEBUG	Register listener.js for window 4294967297
+1511517612886	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511517613722	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511517613722	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511517614029	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1961194114, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1961194114, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1961194114 line 1 > eval, line 1: unreachable code after return statement
+1511517614688	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://apps2.mef.gob.pe
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://apps2.mef.gob.pe
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://apps2.mef.gob.pe
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 19568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ad" for "about:blank"
+1511517911340	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511517911341	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511517911789	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1341235867, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1341235867, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1341235867 line 1 > eval, line 1: unreachable code after return statement
+1511517912937	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e errors will be ignored for this session
+1511518775311	Marionette	DEBUG	Register listener.js for window 4294967297
+1511518775413	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511518776276	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511518776276	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511518776572	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=127393021, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=127393021, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=127393021 line 1 > eval, line 1: unreachable code after return statement
+1511518777290	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 18440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+18940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511518820463	Marionette	INFO	Listening on port 62526
+1511518820893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511518821297	Marionette	DEBUG	Register listener.js for window 4294967297
+1511518821521	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511518822329	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511518822329	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511518822637	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=805342905, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=805342905, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=805342905 line 1 > eval, line 1: unreachable code after return statement
+1511518823277	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511518824650	Marionette	DEBUG	Received DOM event "beforeunload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511518824957	Marionette	DEBUG	Received DOM event "pagehide" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511518824958	Marionette	DEBUG	Received DOM event "unload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511518825055	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+1511518825270	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+es\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.fkjlpfs088DR"
+1511518870826	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511518877697	Marionette	INFO	Listening on port 62582
+1511518878166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511518878774	Marionette	DEBUG	Register listener.js for window 4294967297
+1511518879044	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511518879790	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511518879791	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511518880215	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=703127580, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=703127580, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=703127580 line 1 > eval, line 1: unreachable code after return statement
+1511518880926	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511518882109	Marionette	DEBUG	Received DOM event "beforeunload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511518882419	Marionette	DEBUG	Received DOM event "pagehide" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511518882421	Marionette	DEBUG	Received DOM event "unload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511518882517	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+1511518882712	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+1511518910984	geckodriver	INFO	geckodriver 0.19.1
+1511518911008	geckodriver	INFO	Listening on 127.0.0.1:62634
+1511518913122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.fPXvouC76GjT"
+1511518915384	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511518923048	Marionette	INFO	Listening on port 62640
+1511518923149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511518923744	Marionette	DEBUG	Register listener.js for window 4294967297
+1511518923840	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511518924599	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511518924599	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511518924985	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1553841773, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1553841773, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1553841773 line 1 > eval, line 1: unreachable code after return statement
+1511518925698	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511518926511	Marionette	DEBUG	Received DOM event "beforeunload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511518926750	Marionette	DEBUG	Received DOM event "pagehide" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511518926750	Marionette	DEBUG	Received DOM event "unload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511518926797	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+1511518927017	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+[Parent 6116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notif1511518956166	Marionette	INFO	Listening on port 62700
+1511518956811	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511518957098	Marionette	DEBUG	Register listener.js for window 4294967297
+1511518957223	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511518957917	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511518957918	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511518958255	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1513548228, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1513548228 line 1 > eval, line 1: unreachable code after return statement
+1511518958829	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511518959579	Marionette	DEBUG	Received DOM event "beforeunload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511518959844	Marionette	DEBUG	Received DOM event "pagehide" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511518959844	Marionette	DEBUG	Received DOM event "unload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511518959895	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+1511518960115	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11844, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/b1511518994150	Marionette	INFO	Enabled via --marionette
+1511518998313	Marionette	INFO	Listening on port 62788
+1511518999582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511518999866	Marionette	DEBUG	Register listener.js for window 4294967297
+1511518999929	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511519000613	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511519000614	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511519000935	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1694306298, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1694306298, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1694306298 line 1 > eval, line 1: unreachable code after return statement
+1511519001603	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519002378	Marionette	DEBUG	Received DOM event "beforeunload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519002635	Marionette	DEBUG	Received DOM event "pagehide" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519002635	Marionette	DEBUG	Received DOM event "unload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519002676	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+1511519002880	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+[Child 17860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+1511519138186	geckodriver	INFO	geckodriver 0.19.1
+1511519138234	geckodriver	INFO	Listening on 127.0.0.1:62863
+1511519140428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.8TDxn5OOEqzT"
+1511519143652	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511519149864	Marionette	INFO	Listening on port 62869
+1511519149978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511519150444	Marionette	DEBUG	Register listener.js for window 4294967297
+1511519150688	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511519151579	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511519151580	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511519151928	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1224216884, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1224216884, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1224216884 line 1 > eval, line 1: unreachable code after return statement
+1511519152604	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519154179	Marionette	DEBUG	Received DOM event "beforeunload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519154485	Marionette	DEBUG	Received DOM event "pagehide" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519154487	Marionette	DEBUG	Received DOM event "unload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519154599	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+1511519156013	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511519233770	geckodriver	INFO	geckodriver 0.19.1
+1511519233832	geckodriver	INFO	Listening on 127.0.0.1:62933
+1511519235992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.qpO6uysTCYRZ"
+1511519238568	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511519244129	Marionette	INFO	Listening on port 62939
+1511519244734	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511519245121	Marionette	DEBUG	Register listener.js for window 4294967297
+1511519245235	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511519245985	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511519245987	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511519246408	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=15221053, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=15221053, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=15221053 line 1 > eval, line 1: unreachable code after return statement
+1511519247060	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519248410	Marionette	DEBUG	Received DOM event "beforeunload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519248675	Marionette	DEBUG	Received DOM event "pagehide" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519248677	Marionette	DEBUG	Received DOM event "unload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519248748	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+1511519248951	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 19324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+16076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511519516800	Marionette	INFO	Listening on port 63154
+1511519517110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511519517246	Marionette	DEBUG	Register listener.js for window 4294967297
+1511519517302	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511519518015	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511519518016	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511519518348	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1904568136, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1904568136, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1904568136 line 1 > eval, line 1: unreachable code after return statement
+1511519518960	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519519308	Marionette	DEBUG	Received DOM event "beforeunload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519519533	Marionette	DEBUG	Received DOM event "pagehide" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519519535	Marionette	DEBUG	Received DOM event "unload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519519616	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+1511519519812	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+1511519812194	geckodriver	INFO	geckodriver 0.19.1
+1511519812228	geckodriver	INFO	Listening on 127.0.0.1:63307
+1511519814120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.Zk3f1T7TvFAV"
+1511519817132	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 19696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511519823000	Marionette	INFO	Listening on port 63313
+1511519823669	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511519824082	Marionette	DEBUG	Register listener.js for window 4294967297
+1511519824174	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511519824994	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511519824995	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511519825338	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=567519802, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=567519802, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=567519802 line 1 > eval, line 1: unreachable code after return statement
+1511519825862	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511519869199	Marionette	INFO	Listening on port 63362
+1511519869588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511519870097	Marionette	DEBUG	Register listener.js for window 4294967297
+1511519870279	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511519871244	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511519871245	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511519871595	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1257750759, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1257750759, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1257750759 line 1 > eval, line 1: unreachable code after return statement
+1511519872257	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519873399	Marionette	DEBUG	Received DOM event "beforeunload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519873674	Marionette	DEBUG	Received DOM event "pagehide" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519873676	Marionette	DEBUG	Received DOM event "unload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511519873803	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+1511519874005	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511520095587	geckodriver	INFO	geckodriver 0.19.1
+1511520095654	geckodriver	INFO	Listening on 127.0.0.1:63455
+1511520097793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.Kha84KoRLhUX"
+1511520099967	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511520105502	Marionette	INFO	Listening on port 63461
+1511520105896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511520106089	Marionette	DEBUG	Register listener.js for window 4294967297
+1511520106186	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511520106907	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511520106908	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511520107265	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1149636140, line 1: unreachable code after return statement
+1511520107874	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng on 127.0.0.1:63502
+1511520139148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.SQWdwpFm65oU"
+1511520142107	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511520147211	Marionette	INFO	Listening on port 63509
+1511520147566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511520148226	Marionette	DEBUG	Register listener.js for window 4294967297
+1511520148414	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511520149242	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511520149243	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511520149626	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1335837834, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1335837834, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1335837834 line 1 > eval, line 1: unreachable code after return statement
+1511520150197	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511520151365	Marionette	DEBUG	Received DOM event "beforeunload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511520151608	Marionette	DEBUG	Received DOM event "pagehide" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511520151608	Marionette	DEBUG	Received DOM event "unload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511520151652	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+1511520151926	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+1511520410894	geckodriver	INFO	geckodriver 0.19.1
+1511520410961	geckodriver	INFO	Listening on 127.0.0.1:63625
+1511520413077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.ejtf2cCqkxbb"
+1511520415742	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511520420074	Marionette	INFO	Listening on port 63631
+1511520420990	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511520421481	Marionette	DEBUG	Register listener.js for window 4294967297
+1511520421589	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511520422446	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511520422447	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511520422826	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=930614754, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=930614754 line 1 > eval, line 1: unreachable code after return statement
+1511520423487	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+[Child 12696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+1511520434893	geckodriver	INFO	geckodriver 0.19.1
+1511520434944	geckodriver	INFO	Listening on 127.0.0.1:63674
+1511520437000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.sbM2s4ONriF1"
+1511520438739	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511520442086	Marionette	INFO	Listening on port 63680
+1511520442775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511520443337	Marionette	DEBUG	Register listener.js for window 4294967297
+1511520443438	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511520444166	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511520444166	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511520444638	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2118388901, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2118388901, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2118388901 line 1 > eval, line 1: unreachable code after return statement
+1511520445257	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+0	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511520483702	Marionette	INFO	Listening on port 63730
+1511520483785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511520483925	Marionette	DEBUG	Register listener.js for window 4294967297
+1511520483990	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511520484616	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511520484616	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511520484868	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=270563772, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=270563772, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=270563772 line 1 > eval, line 1: unreachable code after return statement
+1511520485606	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511520486783	Marionette	DEBUG	Received DOM event "beforeunload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511520487062	Marionette	DEBUG	Received DOM event "pagehide" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511520487063	Marionette	DEBUG	Received DOM event "unload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511520487151	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+1511520487350	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 18160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511520615644	geckodriver	INFO	geckodriver 0.19.1
+1511520615706	geckodriver	INFO	Listening on 127.0.0.1:63795
+1511520617801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.0MWJGyBiyRj3"
+1511520620487	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511520626761	Marionette	INFO	Listening on port 63801
+1511520627395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511520627848	Marionette	DEBUG	Register listener.js for window 4294967297
+1511520628010	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511520628804	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511520628805	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511520629113	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=27497883, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=27497883, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=27497883 line 1 > eval, line 1: unreachable code after return statement
+1511520629761	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+[Child 7188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+arionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511520663063	Marionette	INFO	Listening on port 63850
+1511520663262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511520663399	Marionette	DEBUG	Register listener.js for window 4294967297
+1511520663457	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511520664190	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511520664190	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511520664460	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1650430096, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1650430096, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1650430096 line 1 > eval, line 1: unreachable code after return statement
+1511520665493	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511520667200	Marionette	DEBUG	Received DOM event "beforeunload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511520667446	Marionette	DEBUG	Received DOM event "pagehide" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511520667448	Marionette	DEBUG	Received DOM event "unload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511520667507	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+1511520667717	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+1511520825328	geckodriver	INFO	geckodriver 0.19.1
+1511520825351	geckodriver	INFO	Listening on 127.0.0.1:63937
+1511520827481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.MZO6faaIQIup"
+1511520831444	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511520838242	Marionette	INFO	Listening on port 63944
+1511520839260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511520839767	Marionette	DEBUG	Register listener.js for window 4294967297
+1511520839900	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511520840696	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511520840697	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511520841034	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1061167684, line 1: unreachable code after return statement
+1511520841636	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+9096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511520876740	Marionette	INFO	Listening on port 63998
+1511520877411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511520877996	Marionette	DEBUG	Register listener.js for window 4294967297
+1511520878242	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511520879218	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511520879219	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511520879625	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1771654041, line 1: unreachable code after return statement
+1511520880220	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511520881615	Marionette	DEBUG	Received DOM event "beforeunload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511520881956	Marionette	DEBUG	Received DOM event "pagehide" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511520881959	Marionette	DEBUG	Received DOM event "unload" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511520882129	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+1511520882348	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/actionConsultaExpediente.jspx"
+1511522080508	geckodriver	INFO	geckodriver 0.19.1
+1511522080578	geckodriver	INFO	Listening on 127.0.0.1:64240
+1511522082510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.S0SlsEtZjWaN"
+1511522085810	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511522091187	Marionette	INFO	Listening on port 64247
+1511522091576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511522091702	Marionette	DEBUG	Register listener.js for window 4294967297
+1511522091737	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511522092511	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511522092512	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511522092876	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=807112568, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=807112568, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=807112568 line 1 > eval, line 1: unreachable code after return statement
+1511522093644	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 19548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+11068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511522150081	Marionette	INFO	Listening on port 64298
+1511522150372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511522151242	Marionette	DEBUG	Register listener.js for window 4294967297
+1511522151416	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511522152141	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511522152142	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511522152498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1577991384, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1577991384, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1577991384 line 1 > eval, line 1: unreachable code after return statement
+1511522153066	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13020, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13020, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+17980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511522229807	Marionette	INFO	Listening on port 64365
+1511522230263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511522230379	Marionette	DEBUG	Register listener.js for window 4294967297
+1511522230412	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511522231039	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511522231040	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511522231304	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1186790038, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1186790038, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1186790038 line 1 > eval, line 1: unreachable code after return statement
+1511522231937	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 18156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511523206060	geckodriver	INFO	geckodriver 0.19.1
+1511523206086	geckodriver	INFO	Listening on 127.0.0.1:64629
+1511523208036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.qNsWw9DnghQ3"
+1511523210995	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 20208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511523216493	Marionette	INFO	Listening on port 64635
+1511523217560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511523218187	Marionette	DEBUG	Register listener.js for window 4294967297
+1511523218274	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511523219044	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511523219044	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511523219435	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1642020789, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1642020789, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1642020789 line 1 > eval, line 1: unreachable code after return statement
+1511523220116	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511523339278	geckodriver	INFO	geckodriver 0.19.1
+1511523339347	geckodriver	INFO	Listening on 127.0.0.1:64704
+1511523341456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.Do7njBf79z0O"
+1511523343293	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511523348486	Marionette	INFO	Listening on port 64710
+1511523348789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511523349149	Marionette	DEBUG	Register listener.js for window 4294967297
+1511523349289	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511523350087	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511523350088	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511523350423	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2072934094, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2072934094, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2072934094 line 1 > eval, line 1: unreachable code after return statement
+1511523351048	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511523627957	geckodriver	INFO	geckodriver 0.19.1
+1511523627977	geckodriver	INFO	Listening on 127.0.0.1:52749
+1511523630106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.dG90k7W8OEaI"
+1511523633633	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511523640213	Marionette	INFO	Listening on port 52756
+1511523640655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511523640873	Marionette	DEBUG	Register listener.js for window 4294967297
+1511523640944	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511523641737	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511523641738	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511523642151	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=896059292, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=896059292, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=896059292 line 1 > eval, line 1: unreachable code after return statement
+1511523642702	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+[Parent 9344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+7824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511523794925	Marionette	INFO	Listening on port 52833
+1511523795544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511523796059	Marionette	DEBUG	Register listener.js for window 4294967297
+1511523796213	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511523796999	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511523797000	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511523797525	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=695657389, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=695657389, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=695657389 line 1 > eval, line 1: unreachable code after return statement
+1511523798035	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 18724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+19028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511524127623	Marionette	INFO	Listening on port 52938
+1511524128634	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511524129007	Marionette	DEBUG	Register listener.js for window 4294967297
+1511524129093	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511524129863	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511524129863	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511524130151	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=962633297, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=962633297, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=962633297 line 1 > eval, line 1: unreachable code after return statement
+1511524130790	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+BUG	Received DOM event "beforeunload" for "about:blank"
+1511524405587	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511524405588	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511524405968	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1943186452, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1943186452, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1943186452 line 1 > eval, line 1: unreachable code after return statement
+1511524406620	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511549307490	geckodriver	INFO	geckodriver 0.19.1
+1511549307553	geckodriver	INFO	Listening on 127.0.0.1:58453
+1511549308919	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.ZColtwJ11jsL"
+1511549314533	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511549324437	Marionette	INFO	Listening on port 58461
+1511549324978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511549325477	Marionette	DEBUG	Register listener.js for window 4294967297
+1511549325684	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511549328195	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511549328196	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511549329861	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1556131923, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1556131923, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1556131923 line 1 > eval, line 1: unreachable code after return statement
+1511549332909	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+1511549478580	geckodriver	INFO	geckodriver 0.19.1
+1511549478616	geckodriver	INFO	Listening on 127.0.0.1:58594
+1511549480764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.Z25vPThtMBOj"
+1511549483639	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511549490637	Marionette	INFO	Listening on port 58602
+1511549490820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511549491309	Marionette	DEBUG	Register listener.js for window 4294967297
+1511549491475	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511549499330	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511549499330	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511549506368	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=773047602, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=773047602, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=773047602 line 1 > eval, line 1: unreachable code after return statement
+1511549518894	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511549936799	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 6128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511550082696	Marionette	INFO	Listening on port 52283
+1511550083294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511550083567	Marionette	DEBUG	Register listener.js for window 4294967297
+1511550083635	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511550085244	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511550085245	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511550085947	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=605361870, line 1: unreachable code after return statement
+1511550088940	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+[Child 7252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+1511550145004	geckodriver::marionette	ERROR	Failed to kill browser process
+1511552438657	geckodriver	INFO	geckodriver 0.19.1
+1511552438685	geckodriver	INFO	Listening on 127.0.0.1:53124
+1511552440855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.nTDFHdmHrFad"
+1511552443714	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511552451000	Marionette	INFO	Listening on port 53130
+1511552451368	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511552452030	Marionette	DEBUG	Register listener.js for window 4294967297
+1511552452402	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1511552688769	geckodriver	INFO	geckodriver 0.19.1
+1511552688788	geckodriver	INFO	Listening on 127.0.0.1:53176
+1511552690908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.W0eoDHC27dyu"
+1511552693136	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 19708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511552700365	Marionette	INFO	Listening on port 53183
+1511552700875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511552701194	Marionette	DEBUG	Register listener.js for window 4294967297
+1511552701327	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511552702184	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511552702185	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511552703237	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=256964646, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=256964646, line 1: unreachable code after return statement
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=256964646 line 1 > eval, line 1: unreachable code after return statement
+1511552706053	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+1511552975836	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1511553795402	geckodriver	INFO	geckodriver 0.19.1
+1511553795426	geckodriver	INFO	Listening on 127.0.0.1:53443
+1511553797576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.9J8ngt6d8U4S"
+1511553799998	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 20424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511553807291	Marionette	INFO	Listening on port 53449
+1511553807609	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511553808146	Marionette	DEBUG	Register listener.js for window 4294967297
+1511553808369	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511553809491	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511553809492	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511553810230	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://apps2.mef.gob.pe/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1610562534, line 1: unreachable code after return statement
+1511553811828	Marionette	DEBUG	Received DOM event "pageshow" for "http://apps2.mef.gob.pe/consulta-vfp-webapp/consultaExpediente.jspx"

@@ -1,0 +1,17 @@
+{% load static %}
+<html>
+    <head>
+
+    </head>
+    <body>
+       
+        
+        <form method="POST" action="">
+            <img src="{% static 'CAPTCHA3.jpg' %}" alt="">
+            {% csrf_token %}
+            {{formularioCaptcha.as_p}}
+            <input type="submit" value="ENVIAR" />
+        </form>
+        
+    </body>
+</html>
